@@ -1,0 +1,210 @@
+<!doctype html>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+    <title>Philippe Dubé - Maîtrise en science politique</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    />
+    <link rel="stylesheet" href="assets/css/main.css" />
+  </head>
+  <body class="is-preload">
+    <!-- Header -->
+    <section id="header">
+      <header>
+        <span class="image avatar"
+          ><img src="images/portrait.jpg" alt=""
+        /></span>
+        <h1 id="logo"><a href="#">Philippe Dubé</a></h1>
+        <p>
+          Étudiant à la maîtrise en science politique, grand passionné de l'enjeu du populisme et du sort futur des démocraties libérales<br />
+          Anciennement gestionnaire du gym professionnel: Un corps sain dans un esprit sain!
+        </p>
+      </header>
+      <nav id="nav">
+        <ul>
+          <li><a href="#one" class="active">À propos</a></li>
+          <li><a href="#two">Mon travail</a></li>
+          <li><a href="#three">Mon CV</a></li>
+          <li><a href="#projets">Mes Projets</a></li>
+          <li><a href="#four">Contact</a></li>
+        </ul>
+      </nav>
+      <footer>
+        <ul class="icons">
+          <li>
+            <!-- Vous pouvez mettre en hyperlien vos reseaux sociaux en modifiant la valeur de href-->
+            
+    
+            >
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/philippe-dub%C3%A9-b35084337/" class="icon brands fa-linkedin"
+              ><span class="label">linkedin</span></a
+            >
+          </li>
+          <li>
+            <a href="https://github.com/PhilDube25" class="icon brands fa-github"
+              ><span class="label">GitHub</span></a
+            >
+          </li>
+          <li>
+  <a href="mailto:phdub24@ulaval.ca"
+   style="
+       display: inline-flex;
+       align-items: center;
+       gap: 8px;
+       padding: 10px 20px;
+       background-color: #007bff;
+       color: white;
+       text-decoration: none;
+       border-radius: 5px;
+       font-family: Arial, sans-serif;
+       font-size: 16px;
+   ">
+   📧 Envoyer un message
+</a>
+          </li>
+        </ul>
+      </footer>
+    </section>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Main -->
+      <div id="main">
+        <!-- One -->
+        <section id="one">
+          <div class="image main" data-position="center">
+            <img src="images/bg.jpeg" alt="" />
+          </div>
+          <div class="container">
+            <header class="major">
+              <h2>Philippe Dubé</h2>
+              <p>Étudiant maîtrise ULaval</p>
+            </header>
+            <p>
+              Bonjour à toi qui regarde ce site! Mon nom est Philippe Dubé, je suis un Étudiant
+              de l'université Laval en sciences politiques. Mon projet de mémoire s'intéresse 
+              à la question du populisme, en particulier du rôle que la crise de la démocratie
+              connaît sur la jeune génération et ses conséquences.
+            </p>
+          </div>
+        </section>
+
+        <!-- Two -->
+        <section id="two">
+          <div class="container">
+            <h3>Mes réalisations</h3>
+            <p>
+              Je détiens un Baccalauréat en philosophie politique
+              Je suis anciennement un gestionnaire d'yn gym professionnel
+              Je suis un des plus jeune entraîneur chef de l'organisation des gouverneurs de Ste-Foy Sillery
+        
+              
+          </p>
+  
+            <ul class="feature-icons">
+              <li class="icon solid fa-code">
+                Baccalauréat en philosophie politique
+              </li>
+              <li class="icon solid fa-cubes">
+                Maîtrise en science politique
+              </li>
+              <li class="icon solid fa-book">
+                Intéressé à l'enjeu du populisme
+              </li>
+              <li class="icon solid fa-coffee">Jeune (encore, oui) et dynamique</li>
+              <li class="icon solid fa-bolt">À la recherche d'opportunités</li>
+              <li class="icon solid fa-users">Entraîneur chef</li>
+            </ul>
+          </div>
+        </section>
+
+    <!-- Three -->
+<section id="three">
+  <div class="container">
+    <h3>Mon CV</h3>
+    <p>
+      Vous trouverez ci-dessous un aperçu de mon CV. Cliquez sur l'image ou le bouton pour consulter le document complet en format PDF.
+    </p>
+    <div class="features">
+      <article>
+        <!-- Aperçu du CV en image -->
+        <a href="cv/cv.pdf" class="image" target="_blank">
+          <img src="cv/cv.png" alt="Aperçu du CV" />
+        </a>
+        <div class="inner">
+          <h4>Consultez mon CV</h4>
+          <p>
+            Cliquez sur l'image ci-dessus ou sur le lien ci-dessous pour ouvrir mon CV en PDF dans un nouvel onglet.
+          </p>
+          <!-- Lien direct vers le CV en PDF -->
+          <p>
+            <a href="cv/cv.pdf" target="_blank" class="button primary">
+              Voir le CV en PDF
+            </a>
+          </p>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+        <!-- Four -->
+        <section id="four">
+          <div class="container">
+            <h3>Me joindre</h3>
+            <p>
+            <p>Me rejoindre par courriel:</p>
+<a href="mailto:phdub24@ulaval.ca?subject=Sujet&body=Votre message ici."
+   style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color: #007bff;
+       color: white;
+       text-decoration: none;
+       border-radius: 5px;
+       font-family: Arial, sans-serif;
+       font-size: 16px;
+   ">
+   Envoyer un message
+</a>
+   
+                  Envoyer un email
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- Five -->
+        <!-- -->
+      </div>
+
+      <!-- Footer -->
+      <section id="footer">
+        <div class="container">
+          <ul class="copyright">
+            <li>&copy; Untitled. All rights reserved.</li>
+            <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
+
